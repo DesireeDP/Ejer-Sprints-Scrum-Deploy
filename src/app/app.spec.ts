@@ -23,3 +23,5 @@ describe('App', () => {
     expect(compiled.querySelector('h1')?.textContent).toContain('Hello, app-scrum-deploy');
   });
 });
+
+// Este archivo de prueba unitaria verifica que el componente App se crea correctamente y que el título se renderiza como se espera.
