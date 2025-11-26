@@ -21,3 +21,5 @@ describe('ComponenteVisible2', () => {
     expect(component).toBeTruthy();
   });
 });
+
+//Commentario: Este archivo de prueba unitaria verifica que el componente ComponenteVisible2 se crea correctamente sin errores.
